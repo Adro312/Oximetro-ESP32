@@ -1,5 +1,5 @@
 # Oximetro-ESP32
-Código para un oxímetro que se hizo con una ESP32 y sensores básicos que se conectan con una API para guardar los la información de los sensores y pueda ser mostrada en una aplicación móvil.
+Código para un oxímetro que se hizo con una ESP32 y sensores básicos que se conectan con una API para guardar la información de los sensores y pueda ser mostrada en una aplicación móvil.
 
 # Nota
 Se necesita tener descargado otros repositorios para tener el proyecto completo:
